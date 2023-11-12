@@ -1,2 +1,2 @@
-# RinMabRepo
+# RinMab
 TD R in MAB
